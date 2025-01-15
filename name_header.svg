@@ -16,7 +16,23 @@
           }
         }
 
-        .body {
+        @media (prefers-color-scheme: light) {
+          .background {
+            --background-color: var(--grey-0);
+            background: var(--background-color);
+            color: var(--grey-80);
+          }
+        }
+
+        @media (prefers-color-scheme: dark) {
+          .background {
+            --background-color: var(--grey-90);
+            background: var(--background-color);
+            color: var(--grey-5);
+          }
+        }
+
+        .background {
           --grey-90: #1A1A1A;
           --grey-80: #333333;
           --grey-70: #4D4D4D;
@@ -33,25 +49,8 @@
           --color-primary: #EFA00B;
           --color-secondary: #53DD6C;
           --color-tertiary: #0496FF;
-        }
 
-        @media (prefers-color-scheme: light) {
-          .body {
-            --background-color: var(--grey-0);
-            background: var(--background-color);
-            color: var(--grey-80);
-          }
-        }
 
-        @media (prefers-color-scheme: dark) {
-          .body {
-            --background-color: var(--grey-90);
-            background: var(--background-color);
-            color: var(--grey-5);
-          }
-        }
-
-        .background {
           background: linear-gradient(-45deg,
               var(--color-main),
               var(--color-primary),
@@ -89,11 +88,9 @@
           }
         }
       </style>
-      <div class="body">
-        <div class="background">
-          <div class="container">
-            <h1 class="text">Hi I'm Gabriel</h1>
-          </div>
+      <div class="background">
+        <div class="container">
+          <h1 class="text">Hi I'm Gabriel</h1>
         </div>
       </div>
     </div>
