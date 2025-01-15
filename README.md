@@ -5,7 +5,7 @@
 <img src="divider.svg" style="width: 100%; height: 100%;">
 <h4 align="center">Current Projects / Hobbies </h4>
 <div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 10px;">
+  <div>
   <a href="https://google.com">
     <img src="home_server.svg" style="width: 100px; height: 100px;">
   </a>

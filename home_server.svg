@@ -40,14 +40,10 @@
               var(--color-main),
               var(--color-primary)) repeat;
           background-size: 500% 500%;
-          animation: gradient 5s linear infinite;
+          animation: gradient 20s linear infinite;
 
           width: 75px;
           height: 75px;
-        }
-
-        .background:hover {
-          animation: none;
         }
 
         @media (prefers-reduced-motion) {
