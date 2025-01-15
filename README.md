@@ -5,6 +5,9 @@
 <img src="divider.svg" style="width: 100%; height: 100%;">
 <h4 align="center">Current Projects / Hobbies </h4>
 <div style="flex-direction: row; display: flex; justify-content: space-around; align-items: center; gap: 10px;">
+<a href="https://codecademy.com">
+<img src="home_server.svg" style="width: 100px; height: 100px;">
+</a>
 
 [![Home Server](home_server.svg 'Home Server')](https://codecademy.com) [![Home Server](home_server.svg 'Home Server')](https://codecademy.com) [![Home Server](home_server.svg 'Home Server')](https://codecademy.com) [![Home Server](home_server.svg 'Home Server')](https://codecademy.com)
  </div>
