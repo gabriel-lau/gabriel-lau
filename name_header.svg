@@ -71,6 +71,11 @@
           background: var(--background-color);
         }
 
+        .text {
+          margin: 0;
+          height: auto;
+        }
+
         @media (prefers-reduced-motion) {
           .background {
             animation: none;
