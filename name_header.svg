@@ -4,15 +4,11 @@
       <style>
         @keyframes gradient {
           0% {
-            background-position: 0% 50%;
-          }
-
-          50% {
-            background-position: 100% 50%;
+            background-position: 0% 0%;
           }
 
           100% {
-            background-position: 0% 50%;
+            background-position: 100% 100%;
           }
         }
 
@@ -35,13 +31,15 @@
           --color-tertiary: #0496FF;
 
 
-          background: linear-gradient(-45deg,
+          background: linear-gradient(270deg,
               var(--color-main),
               var(--color-primary),
               var(--color-secondary),
-              var(--color-tertiary));
-          background-size: 400% 400%;
-          animation: gradient 15s ease infinite;
+              var(--color-tertiary),
+              var(--color-main),
+              var(--color-primary)) repeat;
+          background-size: 500% 500%;
+          animation: gradient 5s linear infinite;
 
           border-radius: 10px;
 
@@ -78,7 +76,7 @@
         <div class="container">
           <h1>Hi, I'm Gabriel 👋</h1>
           <p>Home Labber | IT Hobbyist | Software Enginner</p>
-          <p><i>Computing Science Undergraduate from Singapore Institute of Technology</i></p>
+          <p><i>Computing Science Undergraduate, Singapore Institute of Technology</i></p>
         </div>
       </div>
     </div>
