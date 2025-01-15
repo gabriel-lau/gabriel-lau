@@ -66,9 +66,9 @@
         }
 
         .container {
-          margin: 20px;
+          padding: 0 20px;
+          height: auto;
           background: var(--background-color);
-          border-radius: 10px;
         }
 
         @media (prefers-reduced-motion) {
@@ -79,9 +79,8 @@
       </style>
       <div class="background">
         <div class="container">
-          <h1 class="text">Hi I'm Gabriel 👋</h1>
-          </br>
-          <p class="text">Home Labber | IT Hobbyist | Software Enginner</p>
+          <h1 class="text">Hi I'm Gabriel</h1>
+          <p class="text">Home Labber | IT | Software Enginner</p>
         </div>
       </div>
     </div>
