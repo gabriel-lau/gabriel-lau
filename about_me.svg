@@ -5,13 +5,13 @@
       <style>
         @media (prefers-color-scheme: dark) {
           .background {
-            color: var(-#F2F2F2);
+            color: -#F2F2F2;
           }
         }
 
         @media (prefers-color-scheme: light) {
           .background {
-            color: var(#1A1A1A);
+            color: #1A1A1A;
           }
         }
 
