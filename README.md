@@ -1,6 +1,6 @@
 
-<img src="name_header.svg" >
-<img src="about_me.svg" >
+<img src="name_header.svg" style="width: 100%; height: 100%;">
+<img src="about_me.svg" style="width: 100%; height: 100%;">
 <!-- <h4 align="center">About Me 🙋‍♂️</h4>
 <p>I'm a final year student in Computer Science. I love exploring new technologies, learning, and embarking on exciting projects. I am always looking for new challenges and opportunities to grow.</p> -->
 <div style="display:flex;"> 

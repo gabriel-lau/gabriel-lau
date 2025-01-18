@@ -5,7 +5,7 @@
       <style>
         @media (prefers-color-scheme: dark) {
           .background {
-            color: -#F2F2F2;
+            color: #F2F2F2;
           }
         }
 
