@@ -1,7 +1,7 @@
 
 <img src="name_header.svg" style="width: 100%; height: 100%;">
 <img src="about_me.svg" style="width: 100%; height: 100%;">
-<img src="experience.svg" style="width: 50%; height: 100%;"><img src="currently_working_on.svg" style="width: 50%; height: 100%;">
+<img src="experience_and_currently_working_on.svg" style="width: 100%; height: 100%;">
 <h4 align="center">Languages / Frameworks / Skills</h4>
 
 <div align="center">
