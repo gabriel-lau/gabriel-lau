@@ -1,17 +1,7 @@
 
 <img src="name_header.svg" style="width: 100%; height: 100%;">
 <img src="about_me.svg" style="width: 100%; height: 100%;">
-<!-- <h4 align="center">About Me 🙋‍♂️</h4>
-<p>I'm a final year student in Computer Science. I love exploring new technologies, learning, and embarking on exciting projects. I am always looking for new challenges and opportunities to grow.</p> -->
-<div style="display:flex;"> 
-  <h4 align="start" style="width: 50%;">Experience 💼<h4>
-  <h4 align="start" style="width: 50%;">Currently working on 🧑‍💻</h4>
-</div>
-<div style="display:flex;"> 
-  <p align="start" style="width: 50%;">Formerly  a fullstack development intern and currently a frontend developent intern, I am comfortable in software development. I am keen to explore other areas such as DevOps and System Admin roles.</p>
-  <p align="start" style="width: 50%;">As part of my final year Capstone project, I am working on a distributed messaging system that is leverages on blockchian technology to serve persistent data to all users. More details can be found below in 'MessageMesh'</p>
-</div>
-<img src="divider.svg" style="width: 100%; height: 100%;">
+<img src="experience.svg" style="width: 50%; height: 100%;"><img src="currently_working_on.svg" style="width: 50%; height: 100%;">
 <h4 align="center">Languages / Frameworks / Skills</h4>
 
 <div align="center">
