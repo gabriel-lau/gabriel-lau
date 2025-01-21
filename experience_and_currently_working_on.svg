@@ -24,7 +24,7 @@
         column {}
 
         p {
-          font-size: 14px;
+          font-size: 11px;
         }
 
         .header {
