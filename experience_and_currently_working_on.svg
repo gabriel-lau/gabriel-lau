@@ -20,7 +20,7 @@
           height: 150px;
           width: 100%;
           display: flex;
-          gap: 20px;
+          column-gap: 20px;
         }
 
         column {}
