@@ -5,8 +5,7 @@
 
 <img src="divider.svg" style="width: 100%; height: 100%;">
 
-<h4 align="center">Languages / Frameworks / Skills</h4>
-
+<img src="languages_frameworks_skills.svg" style="width: 100%; height: 100%;">
 <div align="center">
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
