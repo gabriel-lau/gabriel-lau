@@ -1,53 +1,56 @@
 <svg fill="none" preserveAspectRatio="none" viewBox="0 0 600 150" width="600" height="150"
-  xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @media (prefers-color-scheme: dark) {
-          .background {
-            color: #F2F2F2;
-          }
-        }
+    xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @media (prefers-color-scheme: dark) {
+                    .background {
+                        color: #F2F2F2;
+                    }
+                }
 
-        @media (prefers-color-scheme: light) {
-          .background {
-            color: #1A1A1A;
-          }
-        }
+                @media (prefers-color-scheme: light) {
+                    .background {
+                        color: #1A1A1A;
+                    }
+                }
 
-        .background {
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-          height: 150px;
-          width: 100%;
-          display: flex;
-          column-gap: 20px;
-          align-items: center;
-          gap: 20px;
-        }
+                .background {
+                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+                    height: 150px;
+                    width: 100%;
+                    display: flex;
+                    column-gap: 20px;
+                    align-items: center;
+                    gap: 20px;
+                }
 
-        column {}
+                column {}
 
-        p {
-          font-size: 11px;
-        }
+                p {
+                    font-size: 11px;
+                }
 
-        .header {
-          text-align: center;
-        }
-      </style>
-      <div class="background">
-        <div class="column">
-          <h4 class="header">Experience 💼</h4>
-          <p>Formerly a fullstack development intern and currently a frontend developent intern, I am comfortable in
-            software development. I am keen to explore other areas such as DevOps and System Admin roles.</p>
+                .header {
+                    text-align: center;
+                }
+            </style>
+            <div class="background">
+                <div class="column">
+                    <h4 class="header">Experience 💼</h4>
+                    <p>Formerly a fullstack development intern and currently a frontend developent intern, I am
+                        comfortable in
+                        software development. I am keen to dive deeper into Software Engineering or DevOps roles.</p>
+                </div>
+                <div class="column">
+                    <h4 class="header">Currently working on 🧑‍💻</h4>
+                    <p>As part of my final year Capstone project, I worked on a distributed messaging system that is
+                        leverages
+                        on blockchian technology to serve persistent data to all users. More details can be found below
+                        in
+                        'MessageMesh'</p>
+                </div>
+            </div>
         </div>
-        <div class="column">
-          <h4 class="header">Currently working on 🧑‍💻</h4>
-          <p>As part of my final year Capstone project, I am working on a distributed messaging system that is leverages
-            on blockchian technology to serve persistent data to all users. More details can be found below in
-            'MessageMesh'</p>
-        </div>
-      </div>
-    </div>
-  </foreignObject>
+    </foreignObject>
 </svg>

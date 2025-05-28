@@ -1,41 +1,42 @@
 <svg fill="none" preserveAspectRatio="none" viewBox="0 0 600 100" width="600" height="100"
-  xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @media (prefers-color-scheme: dark) {
-          .background {
-            color: #F2F2F2;
-          }
-        }
+    xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @media (prefers-color-scheme: dark) {
+                    .background {
+                        color: #F2F2F2;
+                    }
+                }
 
-        @media (prefers-color-scheme: light) {
-          .background {
-            color: #1A1A1A;
-          }
-        }
+                @media (prefers-color-scheme: light) {
+                    .background {
+                        color: #1A1A1A;
+                    }
+                }
 
-        .background {
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-          height: 100px;
-          width: 100%;
-          align-items: center;
+                .background {
+                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+                    height: 100px;
+                    width: 100%;
+                    align-items: center;
 
-        }
+                }
 
-        p {
-          font-size: 11px;
-        }
+                p {
+                    font-size: 11px;
+                }
 
-        .header {
-          text-align: center;
-        }
-      </style>
-      <div class="background">
-        <h4 class="header">About Me 🙋‍♂️</h4>
-        <p>I'm a final year student in Computer Science. I love exploring new technologies, learning, and embarking on
-          exciting projects. I am always looking for new challenges and opportunities to grow.</p>
-      </div>
-    </div>
-  </foreignObject>
+                .header {
+                    text-align: center;
+                }
+            </style>
+            <div class="background">
+                <h4 class="header">About Me 🙋‍♂️</h4>
+                <p>I'm a fresh Computer Science Graduate from The Singapore Institute of Technology. I love exploring
+                    new technologies, learning, and embarking on
+                    exciting projects. I am always looking for new challenges and opportunities to grow.</p>
+            </div>
+        </div>
+    </foreignObject>
 </svg>
